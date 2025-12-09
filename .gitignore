@@ -1,0 +1,5 @@
+# Ignore large dataset archives
+*.zip
+
+# Local notebooks/cache
+.ipynb_checkpoints/
