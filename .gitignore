@@ -3,3 +3,5 @@
 
 # Local notebooks/cache
 .ipynb_checkpoints/
+
+*.csv
